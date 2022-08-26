@@ -1,4 +1,4 @@
-```
+``` asm
 
 #include <LPC21XX.h>
 unsigned int delay,j;
