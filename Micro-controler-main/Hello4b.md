@@ -1,4 +1,4 @@
-```
+```asm
 #include <lpc214x.h>
 void initClocks(void);
 void initUART0(void);
