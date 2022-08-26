@@ -1,6 +1,6 @@
 
 
-```
+```asm
 
 #include <LPC21xx.h>
 
