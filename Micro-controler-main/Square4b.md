@@ -1,4 +1,4 @@
-```
+```asm
 #include <lpc21xx.h>
 
 void delay(void);
