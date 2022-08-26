@@ -1,4 +1,4 @@
-```
+```asm
 #include<lpc214x.h>
 
 void clock_wise(void);
